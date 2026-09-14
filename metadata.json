@@ -1,0 +1,11 @@
+{
+  "name": "FarmEra",
+  "description": "AI-powered direct farmer-to-customer marketplace eliminating middlemen with live agricultural weather predictions, Digital Farm Passports, demand forecasting, and route optimization.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
